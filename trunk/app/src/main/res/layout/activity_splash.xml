@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/splash_main"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="#0099cc"
+             tools:context="com.project.wechat.home.SplashActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_alignParentBottom="true"
+        android:background="@mipmap/guide_bg"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ViewFlipper
+            android:id="@+id/vf"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <fragment
+                class="com.project.wechat.home.home.fragment.GuideFirFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <fragment
+                class="com.project.wechat.home.home.fragment.GuideSecFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <fragment
+                class="com.project.wechat.home.home.fragment.GuidThirFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </ViewFlipper>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
