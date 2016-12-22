@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d75c962aab9a3124e6cf509da9e1ad197bc2659c">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15d715a524da9f6c95045e77e38ab7bd23569069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_04e6fec195f3afb5d7c59e4c609c30d12d7b1f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_2e08ee7c6990115efa9d29f3b79c87b9fca0febf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="13e4a228366811ef6357e2b976c1b79b86bf4128">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.alipay.euler-andfix-0.4.0_bec00726d0e1caca7b4feba63470ab2e75b6e916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_1bdbd3c340d373d253f6679692501294eb7f323e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex.rxjava2-rxandroid-2.0.1_7c692d9a1ab9837d6e33f6ccaade4123b6cd08f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_1744776810260c5b47c6506022d85988c954d30e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_c93932b061b7453f19280b9be17e7d074782c0b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_5ea215fafe26757b3eaa9e791da078c680959e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4aae13b7531a2ca71a897c9162b2a42de6c070d7">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c0c95f5311fdb37f20dd0a61b11fbbaa1fd645f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidtools\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_e3bf2f9e95ede781106cccc78cb76ab2ece17eef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.2.1_6cefb185338de79de8553d127bae26e33c0e1ac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.1_e2c0f64b2e4486cc1f102c38c645832a99173543\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_83c20d060fead6e8d97517235d15a1651ea1f6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_d26b798861d5015d7a854e7e465b3be907892954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_397e682f81a90ee78c74b4633dae79a7450f65cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="E:\AndroidStudiWorkSpace\MVPProjet\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.1_88fc17d5d72694fd01b893bb935156af845d463f\classes.dex" />
+    </item>
+
+</items>
